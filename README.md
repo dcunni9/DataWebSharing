@@ -1,7 +1,7 @@
 # DataWebSharing
 For sharing of my analysis data.
 
-link to site: https://dcunni9/DataWebSharing/
+link to site: https://dcunni9.github.io/DataWebSharing/
 
 Glenoid-Transformed Force Data of TSA
 
